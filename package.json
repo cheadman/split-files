@@ -1,0 +1,14 @@
+{
+  "name": "split-files",
+  "version": "1.0.0",
+  "description": "Finds files in a directory and logs a subset of them based on desired amounts of splits and index.",
+  "main": "splitFiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "split-files": "./splitFiles.js"
+  },
+  "author": "Courd Headman",
+  "license": "ISC"
+}
