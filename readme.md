@@ -16,4 +16,4 @@ Accepts a path, a regex, a number of splits and the index wanted.
 or
 
 
-` split-files 'cypress/e2e' '.*\.cy\.js$' 3 2 `
+`npx split-files 'cypress/e2e' '.*\.cy\.js$' 3 2 `
